@@ -1,0 +1,9 @@
+{
+  "input": {
+    "Feature_1": 2.3,
+    "Feature_2": 4.5
+  },
+  "prediction": {
+    "cluster": 2
+  }
+}
